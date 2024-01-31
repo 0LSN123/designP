@@ -8,6 +8,7 @@
         <option value="$PROJECT_DIR$/singleton/pom.xml" />
         <option value="$PROJECT_DIR$/Proxy/pom.xml" />
         <option value="$PROJECT_DIR$/Adapter/pom.xml" />
+        <option value="$PROJECT_DIR$/Chain/pom.xml" />
       </list>
     </option>
   </component>
