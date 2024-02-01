@@ -9,6 +9,7 @@
         <module name="singleton" />
         <module name="observer" />
         <module name="Chain" />
+        <module name="Factory" />
         <module name="Proxy" />
         <module name="Adapter" />
       </profile>

@@ -13,10 +13,10 @@ public abstract class Support {
 
     public abstract boolean resolve(Trouble trouble);
     public void done(Trouble trouble){
-        System.out.println(trouble+"问题已经解决");
+        System.out.println(trouble+" "+"问题已经解决");
     }
     public void fail(Trouble trouble){
-        System.out.println(trouble+"问题没有解决");
+        System.out.println(trouble+" "+"问题没有解决");
     }
     //处理流程
     public final void support(Trouble trouble){

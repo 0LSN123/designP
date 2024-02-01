@@ -9,6 +9,7 @@
         <option value="$PROJECT_DIR$/Proxy/pom.xml" />
         <option value="$PROJECT_DIR$/Adapter/pom.xml" />
         <option value="$PROJECT_DIR$/Chain/pom.xml" />
+        <option value="$PROJECT_DIR$/Factory/pom.xml" />
       </list>
     </option>
   </component>
